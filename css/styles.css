@@ -25,7 +25,7 @@ p a {
 .body {
 	text-align: center;
 	display: block;
-	margin-top: 15%;
+	margin-top: 1%;
 }
 
 
@@ -99,4 +99,33 @@ p.updates {
 	padding: .75em;
 	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
+
+
+
+
+/* BLOCKS - Newsletter */
+
+.block {
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #e8faff;
+	border: 1px solid #5adbff;
+	padding: 1em;
+}
+
+
+.block h2 {
+	color: #B7936F;
+  font: normal .85rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+}
+
+h4.block-title {
+	color: #B7936F;
+	font: bold 1.25rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	margin: 0;
+	padding-left: .5em;
+}
+
 
