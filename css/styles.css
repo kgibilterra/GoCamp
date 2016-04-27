@@ -110,12 +110,22 @@ p.updates {
 	clear: both;
 }
 
+#blocks p {
+	color: gray;
+	font-size: .95rem;
+}
+
+#blocks a {
+	color: black;
+	border-bottom: 1px dotted black;
+}
+
+
 /* BLOCKS - Newsletter */
 
 .block {
 	width: 30%;
-	margin-right: auto;
-	margin-left: auto;
+	margin: 2em auto 1em;
 	background-color: #e8faff;
 	border: 1px solid #5adbff;
 	padding: 1em;
@@ -128,11 +138,26 @@ p.updates {
 
 }
 
+#newsletter {
+	padding-bottom: 0;
+}
+
+#community h4 {
+	text-align: center;
+}
+
+#community p {
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+	text-align: center;
+}
+
 h4.block-title {
 	color: #B7936F;
 	font: bold 1.25rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	margin: 0;
 	padding-left: .5em;
+	text-align: center;
 }
 
 
