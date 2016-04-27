@@ -103,6 +103,13 @@ p.updates {
 
 
 
+/* BLOCKS */
+
+#blocks {
+	margin-top: 1em;
+	clear: both;
+}
+
 /* BLOCKS - Newsletter */
 
 .block {
