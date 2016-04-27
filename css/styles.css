@@ -26,6 +26,9 @@ p a {
 	text-align: center;
 	display: block;
 	margin-top: 1%;
+	margin-left: auto;
+	width: 400px;
+	margin-right: auto;
 }
 
 
