@@ -124,6 +124,13 @@ p.updates {
 }
 
 
+h4,
+h4 a {
+	color: #FFF;
+  font: bold 1.25rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+}
+
 /* BLOCKS - Newsletter */
 
 .block {

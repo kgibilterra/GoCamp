@@ -3,6 +3,10 @@
 <head>
   <link rel="stylesheet" type="text/css" href="css/styles.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <!-- place this in your head tag -->
+  <script src='https://js.tito.io/v1' async></script>
+  <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
+
 </head>
 
 <body>
@@ -23,12 +27,18 @@
     <p class="date">Sat Jul 9, 2016</p>
     <p class="venue">@ United Nations</p>
     <p class="updates">A community-run open source conference focused on the Golang programming language</p>
-    <p class="updates">Registration and sessions proposals opening soon!</p>
     <p class="updates">Please send us an email at <a href="mailto:info@gocamp.io">info@gocamp.io</a> if you have any questions or want to get involved.</p>
+    <h4><a href="http://goo.gl/forms/iIHURDEqKW" target="_blank">Propose your session here: http://goo.gl/forms/iIHURDEqKW</a></h4>
   </div>
 
   <div id="blocks">
-	  <div id="newsletter" class="block">
+ 
+ 	  <div id="register" class="block">
+  		<h4 class="block-title">Tickets</h4>    
+      <tito-widget event="go-camp/go-camp-2016"></tito-widget>
+    </div>
+ 
+ 	  <div id="newsletter" class="block">
 			<h4 class="block-title">Go Camp Newsletter</h4>    
 
 			<!-- Begin MailChimp Signup Form -->
