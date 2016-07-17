@@ -48,7 +48,11 @@ can elegantly import Go code from most other languages, including
 Python, Ruby and Javascript We'll have a look at how and what are the
 pitfalls.
 
-##Valor, an open platform for Writing 
-written in Go
-*Faraz Fazle*
+## Valor, An open platform for Writing
+###*Faraz Fazli
+_Faraz Fazli is currently 19 and has been coding since age 9. He has previously spoken at the UN for several other Open Source camps (DevOps Camp, NextGen Camp, Android Camp), and given talks at Priceline, DigitalOcean, eBay, and various tech companies throughout NYC. Passionate about bringing developers together, he organizes the a monthly tech meetup in NYC which has over 900 members._
+
+##Expvarmon -TermUI based monitor for Go apps using expvars (/debug/vars). Quickest way to monitor your Go app(s)
+###*Ivan Daniluk*
+_@idanyliuk_ on Twitter, divan on Github
 
