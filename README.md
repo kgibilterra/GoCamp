@@ -45,6 +45,7 @@ can elegantly import Go code from most other languages, including
 Python, Ruby and Javascript We'll have a look at how and what are the
 pitfalls.
 
-##Valor, an open platform for writing written in Go
+##Valor, an open platform for Writing 
+written in Go
 *Faraz Fazle*
 
