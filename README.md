@@ -27,6 +27,7 @@ Outside in East River Patio lookout
 ##"How a gopher juggles dependencies: vendoring" (Beginner)
 ###*Filippo Valsorda, Cloudflare*
 _@filosottie_
+
 We'll look at how Go's approach to dependencies is different from other
 languages, and what tools are available for it.
 
@@ -36,6 +37,8 @@ other libraries, because types would then conflict with the ones the
 consumer can access.
 
 ##"Calling Go from other languages" (Intermediate+)
+###*Filippo Valsorda, Cloudflare*
+_@filosottie_
 
 One of my most popular blog posts is "Building Python modules with Go
 1.5". It was mostly an experiment to play with the new option to build C
