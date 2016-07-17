@@ -56,4 +56,10 @@ _Faraz Fazli is currently 19 and has been coding since age 9. He has previously 
 ###*Ivan Daniluk*
 _@idanyliuk_ on Twitter, divan on Github
 
-Motion 
+##Motion: a GoLang tool that was designed to work with editors. 
+###Fatih Arslan
+_@fatih_ on Twitter & Github
+
+Motion provides contextual information for a given offset(option) from a file or directory of files. Editors can use these informations to implement navigation, text editing, etc... that are specific to a Go source code.
+
+It's optimized and created to work with vim-go, but it's designed to work with any editor. It's currently work in progress and open to change
