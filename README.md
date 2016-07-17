@@ -2,7 +2,7 @@
 
 ## Morning Track: Learning Go Fundamentals
 ###*Paul Burt, EBay*
-_@thatmightbepaul_
+_@thatmightbepaul_ on Twitter and _pgburt_ on GitHub
 
 The workshop will be focused towards folks with little or no programming experience. They will need a Mac, Linux machine, or a Windows machine built within the last 3 years. For Windows users, we'll help them install an Ubuntu VM as part of the first session.
 
@@ -26,7 +26,7 @@ Outside in East River Patio lookout
 
 ##"How a gopher juggles dependencies: vendoring" (Beginner)
 ###*Filippo Valsorda, Cloudflare*
-_@filosottie_
+_@filosottile_ on Twitter & GitHub
 
 We'll look at how Go's approach to dependencies is different from other
 languages, and what tools are available for it.
@@ -38,7 +38,7 @@ consumer can access.
 
 ##"Calling Go from other languages" (Intermediate+)
 ###*Filippo Valsorda, Cloudflare*
-_@filosottie_
+_@filosottile_ on Twitter & Github
 
 One of my most popular blog posts is "Building Python modules with Go
 1.5". It was mostly an experiment to play with the new option to build C
