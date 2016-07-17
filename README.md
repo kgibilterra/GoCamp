@@ -1,4 +1,4 @@
-# GoCamNYC Schedule
+# GoCampNYC Schedule
 
 ## Morning Track: Learning Go Fundamentals
 ###*Paul Burt, EBay*
